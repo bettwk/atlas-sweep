@@ -1,0 +1,14 @@
+## Interface: 11507
+## Title: AtlasSweep
+## Notes: Zindan tam temizlik rotası: bütün koridorları ve bossları en az geri dönüşle dolaşan yolu Atlas algoritmasıyla planlar.
+## Author: Rabia Betül Polat
+## Version: 0.1.0
+## SavedVariables: AtlasSweepDB
+
+core\graph.lua
+core\atlas.lua
+core\sweep.lua
+core\tracker.lua
+data\dungeons.lua
+ui\frame.lua
+ui\addon.lua
